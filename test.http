@@ -1,0 +1,16 @@
+### testing only address
+GET  http://localhost:8080/houses/?homeNumber=207&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+### testing only the other address
+GET  http://localhost:8080/houses/?bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=250000
+### testing both
+GET  http://localhost:8080/houses/?homeNumber=203&street=Cir&city=Fairfield&state=Iowa&zipcode=52556&bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=169000
+### testing get house by id
+GET  http://localhost:8080/houses/635205b7c76fc944d6977a3e
+### testing login
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+  "userId": "user1",
+  "password": "123"
+}
