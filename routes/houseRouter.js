@@ -8,7 +8,7 @@ router.get("/appointments", checkToken, houseController.getAllAppointments);
 
 router.get("/:id", checkToken, houseController.getHouseById);
 
-router.post("/:id", checkToken, houseController.edit);
+router.patch("/:id", checkToken, houseController.edit);
 
 router.post("/", checkToken, houseController.add);
 

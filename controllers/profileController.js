@@ -16,6 +16,8 @@ module.exports.getByUserId = async function (req, res, next) {
 module.exports.add = async function (req, res, next) {
     console.log("add");
 
+    console.log
+
     async function validate(body) {
         if (typeof body.userId !== "string") {
             body.userId = ""

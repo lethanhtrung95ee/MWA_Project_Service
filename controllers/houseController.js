@@ -1,6 +1,6 @@
 const House = require('../models/houseModel');
 
-function validateContentHouse(body) {
+function validateContentHouse(body, req) {
     //images
     if (Array.isArray(body.images)) {
         let somethingIsNotString = false;
@@ -13,9 +13,10 @@ function validateContentHouse(body) {
             body.images = [];
         }
     }
+   
     //address
     if (typeof body.address.home_number !== "string") {
-        body.address.home_number = ""
+        body.address.home_number = 0
     }
     if (typeof body.address.street !== "string") {
         body.address.street = ""
@@ -89,10 +90,12 @@ function validateContentHouse(body) {
     //init for first create - next time in should be here, so don't need to init again or fix
     //next time agent edit - they just edit their content not this part
     if (!body.publisher) {
-        body.publisher.userId = req.user.userId
-        body.publisher.fullName = req.user.fullName
-        body.publisher.email = req.user.email
-        body.publisher.appointments = []
+        body.publisher = {
+            "userId": req.user.userId,
+            "fullName": req.user.fullName,
+            "email": req.user.email,
+            "appointments": []
+        }
     }
     //interestedUserIds
     if (Array.isArray(body.interestedUserIds)) {
@@ -192,7 +195,7 @@ module.exports.getHouseById = async function (req, res, next) {
 module.exports.edit = async function (req, res, next) {
     console.log("edit");
     try {
-        const body = validateContentHouse(req.body);
+        const body = validateContentHouse(req.body, req);
         let {id} = req.params;
         await House.updateOne({_id: id}, body, {upsert: true})
         res.json({"success": true});
@@ -203,11 +206,13 @@ module.exports.edit = async function (req, res, next) {
 
 module.exports.add = async function (req, res, next) {
     console.log("add");
+    console.log(req.body)
     try {
-        const body = validateContentHouse(req.body);
+        const body = validateContentHouse(req.body, req);
         await House.create(body)
         res.json({"success": true});
     } catch (error) {
+        console.log("Catch", error)
         next(error);
     }
 }
