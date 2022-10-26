@@ -1,0 +1,67 @@
+{
+  "docs": [
+    {
+      "address": {
+        "home_number": 203,
+        "street": "South Gate Cir",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 2403,
+        "prices": 169000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "WELL-KEPT PRIVATE LOCATION SOUTHGATE CONDO. 1, 132 sq. ft. Big living room/dining combo, open plan to kitchen. Two bedrooms, one with ensuite shower with built-in seat, toilet, basin, medicine cupboard, large walk-in closet. 2nd full bathroom with washer/ dryer. Single car garage; extra parking for two more cars not obstructing garage. Cute patio looking out towards the communal gazebo. These units have sold quickly especially in the recent market. Covenants apply. HOA fees $127.50 a month.",
+        "garages": 1,
+        "yearBuilt": 1999
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "_id": "6352134539f3bf9a8b183bf9",
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "6352134539f3bf9a8b183bfa",
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "6352134539f3bf9a8b183bfb",
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "images": [],
+      "interestingUserIds": [
+        "user2",
+        "user3"
+      ]
+    }
+  ],
+  "totalDocs": 1,
+  "limit": 5,
+  "totalPages": 1,
+  "page": null,
+  "pagingCounter": null,
+  "hasPrevPage": false,
+  "hasNextPage": false,
+  "prevPage": null,
+  "nextPage": null
+}

@@ -1,0 +1,116 @@
+{
+  "docs": [
+    {
+      "address": {
+        "home_number": 207,
+        "street": "E Adams Ave",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 1202,
+        "prices": 209000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "Be sure to consider this well-maintained home w/both the inside & outside features you are looking for. Plenty of parking space available w/a large concrete apron, fenced-in yard, 2-car insulated garage w/electric, & an area for your boat, RV, or the like. Step inside & walk into the kitchen w/new appliances, farm sink, local custom cabinetry, butcher block island & counters together with a bench-style dining area, & convenient laundry area w/extra counter & cabinets. Large living room shared w/dining w/hardwood flooring, built-in shelving, wood stove, & enclosed front porch sitting/relaxing. Main-level bedroom features a recently updated 3/4 bath. You will not want to miss the larger main-level bathroom featuring custom tile shower, double vanity marble top, vessel sinks, waterproof flooring, cove lighting, & an in-ceiling heater. A rebuilt staircase leads you to the second story bedroom that could function as two bedrooms--w/ample closet space & no-scuff vinyl flooring. Much more!",
+        "garages": 1,
+        "yearBuilt": 1900
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "_id": "63520bcbe2968630b8a5b106",
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63520bcbe2968630b8a5b107",
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63520bcbe2968630b8a5b108",
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "635205b7c76fc944d6977a3c",
+      "images": [],
+      "interestingUserIds": [
+        "user1",
+        "user2"
+      ]
+    },
+    {
+      "address": {
+        "home_number": 1608,
+        "street": "Woodside Cir",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 1508,
+        "prices": 435000,
+        "bed": 3,
+        "bath": 2,
+        "propertyDetail": "Tucked on the end of a quiet cul de sac, this beautiful home has the feel of country with the convenience of town. Built in 1996 by Connor & Smith, this cedar sided home has been meticulously maintained. Spacious kitchen and living room with fireplace on the main level, along with master suite and renovated master bath. Two additional bedrooms on the second level, with renovated bathroom and additional family room. A walkout basement, with a large workshop area, half bath and finished family room. This property boasts a massive, custom built heated shop, with half bath, private office and three overhead doors. The shop is perfect for storing your equipment, entertaining family and friends or using as additional living space. Updates are numerous; new roof, new drywall throughout, exterior Hardy stove, renovated bathrooms, new flooring throughout, remodeled kitchen, new doors, new decks, wood siding recently stained.",
+        "garages": 2,
+        "yearBuilt": 1996
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "_id": "63520bcbe2968630b8a5b109",
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63520bcbe2968630b8a5b10a",
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "635205b7c76fc944d6977a3d",
+      "images": [],
+      "interestingUserIds": [
+        "user1",
+        "user2",
+        "user3"
+      ]
+    }
+  ],
+  "totalDocs": 8,
+  "limit": 2,
+  "totalPages": 4,
+  "page": null,
+  "pagingCounter": null,
+  "hasPrevPage": false,
+  "hasNextPage": false,
+  "prevPage": null,
+  "nextPage": null
+}

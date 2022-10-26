@@ -1,0 +1,218 @@
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+  "userId": "user1",
+  "password": "123"
+}
+
+<> 2022-10-23T001033.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=207&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-21T232416.401.json
+
+###
+
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+  "userId": "user1",
+  "password": "123"
+}
+
+<> 2022-10-21T203245.500.json
+
+###
+
+GET http://localhost:8080/houses/635205b7c76fc944d6977a3e
+
+<> 2022-10-20T223920.200.json
+
+###
+
+GET http://localhost:8080/houses/635205b7c76fc944d6977a3e
+
+<> 2022-10-20T223900.500.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=203&street=Cir&city=Fairfield&state=Iowa&zipcode=52556&bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=169000
+
+<> 2022-10-20T223545-1.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=250000
+
+<> 2022-10-20T223545.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=203&street=Cir&city=Fairfield&state=Iowa&zipcode=52556&bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=169000
+
+<> 2022-10-20T223522.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=203&street=Cir&city=Fairfield&state=Iowa&zipcode=52556&bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=169000
+
+<> 2022-10-20T223429.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=203&street=Cir&city=Fairfield&state=Iowa&zipcode=52556&bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=169000
+
+<> 2022-10-20T223052.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=250000
+
+<> 2022-10-20T222933.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2&path=2&fromSquare=0&toSquare=2403
+
+<> 2022-10-20T222852.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=250000
+
+<> 2022-10-20T222836.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2&path=2&fromSquare=0&toSquare=2403&fromPrice=80000&toPrice=210000
+
+<> 2022-10-20T222821.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2&path=2&fromSquare=0&toSquare=2403
+
+<> 2022-10-20T222554.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2
+
+<> 2022-10-20T222409.200.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2
+
+###
+
+GET http://localhost:8080/houses/?bed=2
+
+<> 2022-10-20T221518.500.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2
+
+<> 2022-10-20T221434.500.json
+
+###
+
+GET http://localhost:8080/houses/?bed=2
+
+###
+
+GET http://localhost:8080/houses/?bed=2
+
+<> 2022-10-20T221347.500.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=207&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T221324.200.json
+
+###
+
+GET http://localhost:8080/houses/?home_Number=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T221234.200.json
+
+###
+
+GET http://localhost:8080/houses/?home_Number=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T221152.200.json
+
+###
+
+GET http://localhost:8080/houses/?home_Number=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T220849.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T220841.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T220820.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T220751.200.json
+
+###
+
+GET http://localhost:8080/houses/?homeNumber=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T220628.200.json
+
+###
+
+GET http://localhost:8080/houses/?home_number=100&street=Ave&city=Fairfield&state=Iowa&zipcode=52556
+
+<> 2022-10-20T220307.200.json
+
+###
+
+GET http://localhost:8080/houses/?page=4
+
+<> 2022-10-20T161429.200.json
+
+###
+
+GET http://localhost:8080/houses/?page=2
+
+<> 2022-10-20T161412.200.json
+
+###
+
+GET http://localhost:8080/houses
+
+<> 2022-10-20T161316.200.json
+
+###
+
+GET http://localhost:8080/houses
+
+<> 2022-10-20T160948.200.json
+
+###
+
+GET http://localhost:8080/houses
+
+<> 2022-10-20T160619.200.json
+
+###
+

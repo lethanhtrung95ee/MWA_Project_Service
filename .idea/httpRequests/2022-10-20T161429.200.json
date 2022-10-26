@@ -1,0 +1,120 @@
+{
+  "docs": [
+    {
+      "address": {
+        "home_number": 105,
+        "street": "E Lincoln Ave",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "typeOfBuilding": "",
+        "square": 1206,
+        "prices": 185000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "Be sure to consider this well-maintained home w/both the inside & outside features you are looking for. Plenty of parking space available w/a large concrete apron, fenced-in yard, 2-car insulated garage w/electric, & an area for your boat, RV, or the like. Step inside & walk into the kitchen w/new appliances, farm sink, local custom cabinetry, butcher block island & counters together with a bench-style dining area, & convenient laundry area w/extra counter & cabinets. Large living room shared w/dining w/hardwood flooring, built-in shelving, wood stove, & enclosed front porch sitting/relaxing. Main-level bedroom features a recently updated 3/4 bath. You will not want to miss the larger main-level bathroom featuring custom tile shower, double vanity marble top, vessel sinks, waterproof flooring, cove lighting, & an in-ceiling heater. A rebuilt staircase leads you to the second story bedroom that could function as two bedrooms--w/ample closet space & no-scuff vinyl flooring. Much more!",
+        "garages": 1,
+        "yearBuilt": 2017
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "6351a804c76fc944d6977a1d",
+      "images": [],
+      "interestingUserIds": [
+        "user1",
+        "user2",
+        "user3"
+      ]
+    },
+    {
+      "address": {
+        "home_number": 1108,
+        "street": "Louden Dr",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "typeOfBuilding": "",
+        "square": 1630,
+        "prices": 365000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "This east facing quality brick home on cul-de-sac near Fairfield Golf & Country Club is move in ready! High ceilings, skylights and new paint freshens the large living room with fireplace and glass door to deck. Adjacent kitchen has vaulted ceilings, dark granite counters, open dining space, built in shelving, desk space, hardwood floors and lots of pantry space. Main floor has private very large ensuite with jetted tub, walk in shower, his-&-hers vanities and big walk in closet. On the other side of the main floor in an additional bedroom with double closets next to a full bath. Tiled floored 4 Seasons room with many windows also has deck access facing private wooded back yard. Main-floor laundry duals as garage entry mud room with cabinets and sink. Lower level features third bedroom with egress window, a third full bath, another potential bedroom or office, finished family room and additional space to finish while still having lots of storage space. Two-car attached garage.",
+        "garages": 2,
+        "yearBuilt": 1992
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "6351a804c76fc944d6977a1e",
+      "images": [],
+      "interestingUserIds": [
+        "user1",
+        "user2"
+      ]
+    }
+  ],
+  "totalDocs": 8,
+  "limit": 2,
+  "totalPages": 4,
+  "page": 4,
+  "pagingCounter": 7,
+  "hasPrevPage": true,
+  "hasNextPage": false,
+  "prevPage": 3,
+  "nextPage": null
+}

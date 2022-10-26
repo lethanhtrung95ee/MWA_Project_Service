@@ -1,0 +1,270 @@
+{
+  "docs": [
+    {
+      "address": {
+        "home_number": 207,
+        "street": "E Adams Ave",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 1202,
+        "prices": 209000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "Be sure to consider this well-maintained home w/both the inside & outside features you are looking for. Plenty of parking space available w/a large concrete apron, fenced-in yard, 2-car insulated garage w/electric, & an area for your boat, RV, or the like. Step inside & walk into the kitchen w/new appliances, farm sink, local custom cabinetry, butcher block island & counters together with a bench-style dining area, & convenient laundry area w/extra counter & cabinets. Large living room shared w/dining w/hardwood flooring, built-in shelving, wood stove, & enclosed front porch sitting/relaxing. Main-level bedroom features a recently updated 3/4 bath. You will not want to miss the larger main-level bathroom featuring custom tile shower, double vanity marble top, vessel sinks, waterproof flooring, cove lighting, & an in-ceiling heater. A rebuilt staircase leads you to the second story bedroom that could function as two bedrooms--w/ample closet space & no-scuff vinyl flooring. Much more!",
+        "garages": 1,
+        "yearBuilt": 1900
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "_id": "63521391a3f7cd42a47dfee1",
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfee2",
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfee3",
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "635205b7c76fc944d6977a3c",
+      "images": [],
+      "interestingUserIds": [
+        "user1",
+        "user2"
+      ]
+    },
+    {
+      "address": {
+        "home_number": 203,
+        "street": "South Gate Cir",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 2403,
+        "prices": 169000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "WELL-KEPT PRIVATE LOCATION SOUTHGATE CONDO. 1, 132 sq. ft. Big living room/dining combo, open plan to kitchen. Two bedrooms, one with ensuite shower with built-in seat, toilet, basin, medicine cupboard, large walk-in closet. 2nd full bathroom with washer/ dryer. Single car garage; extra parking for two more cars not obstructing garage. Cute patio looking out towards the communal gazebo. These units have sold quickly especially in the recent market. Covenants apply. HOA fees $127.50 a month.",
+        "garages": 1,
+        "yearBuilt": 1999
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "_id": "63521391a3f7cd42a47dfee4",
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfee5",
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfee6",
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "635205b7c76fc944d6977a3e",
+      "images": [],
+      "interestingUserIds": [
+        "user2",
+        "user3"
+      ]
+    },
+    {
+      "address": {
+        "home_number": 602,
+        "street": "W Broadway Ave",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 1976,
+        "prices": 209000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "This Multi-family Apartment building has 4 units. Located just a few blocks from the center of town and very close to grocery stores, restaurants, and schools. This building has an $18, 087 annual net income after expenses. Tenants rent includes utilities of Fairfield Water, Alliant Energy, & Windstream Internet. Tenants need 24 hours notice to show.",
+        "garages": 1,
+        "yearBuilt": 1880
+      },
+      "publisher": {
+        "userId": "agent2",
+        "fullName": "Agent 2",
+        "email": "agent2@gmail.com",
+        "appointments": [
+          {
+            "_id": "63521391a3f7cd42a47dfee7",
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfee8",
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfee9",
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "635205b7c76fc944d6977a3f",
+      "images": [],
+      "interestingUserIds": []
+    },
+    {
+      "address": {
+        "home_number": 206,
+        "street": "W Grimes Ave",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 1202,
+        "prices": 94800,
+        "bed": 2,
+        "bath": 1,
+        "propertyDetail": "Great location for this 1-story bungalow! With close to 1, 100 square feet and all the living on the main level, this home features a large kitchen with ample cabinets & counter space as well as room for an eat-in feature. Sits adjacent to the dining room with views of the living area. Front living room with great space for furniture. Large foyer area leads to the bedrooms each with closets. Hallway 3/4 bath. Mudroom also functions as the laundry. Great space in the 2-car detached garage & includes large concrete parking apron. Centrally located and within walking distance to downtown, Everybody's, & additional shopping make this property one to consider.",
+        "garages": 1,
+        "yearBuilt": 1900
+      },
+      "publisher": {
+        "userId": "agent2",
+        "fullName": "Agent 2",
+        "email": "agent2@gmail.com",
+        "appointments": [
+          {
+            "_id": "63521391a3f7cd42a47dfeea",
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "635205b7c76fc944d6977a41",
+      "images": [],
+      "interestingUserIds": [
+        "user1",
+        "user2"
+      ]
+    },
+    {
+      "address": {
+        "home_number": 105,
+        "street": "E Lincoln Ave",
+        "city": "Fairfield",
+        "state": "Iowa",
+        "zipcode": 52556
+      },
+      "description": {
+        "square": 1206,
+        "prices": 185000,
+        "bed": 2,
+        "bath": 2,
+        "propertyDetail": "Be sure to consider this well-maintained home w/both the inside & outside features you are looking for. Plenty of parking space available w/a large concrete apron, fenced-in yard, 2-car insulated garage w/electric, & an area for your boat, RV, or the like. Step inside & walk into the kitchen w/new appliances, farm sink, local custom cabinetry, butcher block island & counters together with a bench-style dining area, & convenient laundry area w/extra counter & cabinets. Large living room shared w/dining w/hardwood flooring, built-in shelving, wood stove, & enclosed front porch sitting/relaxing. Main-level bedroom features a recently updated 3/4 bath. You will not want to miss the larger main-level bathroom featuring custom tile shower, double vanity marble top, vessel sinks, waterproof flooring, cove lighting, & an in-ceiling heater. A rebuilt staircase leads you to the second story bedroom that could function as two bedrooms--w/ample closet space & no-scuff vinyl flooring. Much more!",
+        "garages": 1,
+        "yearBuilt": 2017
+      },
+      "publisher": {
+        "userId": "agent1",
+        "fullName": "Agent 1",
+        "email": "agent1@gmail.com",
+        "appointments": [
+          {
+            "_id": "63521391a3f7cd42a47dfeeb",
+            "userId": "user1",
+            "fullName": "Le Thanh Trung",
+            "phoneNUmber": 73727876712,
+            "email": "lethanhtrung@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfeec",
+            "userId": "user2",
+            "fullName": "Win Win",
+            "phoneNUmber": 66627876712,
+            "email": "winwin@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          },
+          {
+            "_id": "63521391a3f7cd42a47dfeed",
+            "userId": "user3",
+            "fullName": "Sonyta",
+            "phoneNUmber": 6432831728,
+            "email": "sonyta@gmail.com",
+            "date": "2000-01-01T06:00:00.000Z"
+          }
+        ]
+      },
+      "_id": "635205b7c76fc944d6977a42",
+      "images": [],
+      "interestingUserIds": [
+        "user1",
+        "user2",
+        "user3"
+      ]
+    }
+  ],
+  "totalDocs": 5,
+  "limit": 5,
+  "totalPages": 1,
+  "page": null,
+  "pagingCounter": null,
+  "hasPrevPage": false,
+  "hasNextPage": false,
+  "prevPage": null,
+  "nextPage": null
+}
